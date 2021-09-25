@@ -1,0 +1,5 @@
+training/*
+models/*
+gcp/*
+catdog.h5
+tflite_model.tflite
